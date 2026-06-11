@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "825772727920",
+    "project_id": "tukosalama-6762e",
+    "storage_bucket": "tukosalama-6762e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825772727920:android:b193f3e66f31660286deb5",
+        "android_client_info": {
+          "package_name": "com.example.tuko_salama"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAXKwpnb64AaAMQA55o37HSlWU1fBX6gQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
